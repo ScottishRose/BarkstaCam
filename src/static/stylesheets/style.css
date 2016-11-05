@@ -1,8 +1,13 @@
+body {
+  background-color: lightgrey;
+}
 
-
+.add {
+  text-align: center;
+}
 /*Thank to this site for the polaroid css https://designshack.net/articles/css/4-fun-css-image-effects-you-can-copy-and-paste/*/
 
-.polaroid {
+/*.polaroid {
   position: relative;
   width: 220px;
 }
@@ -21,9 +26,4 @@
   width: 100%;
   bottom: 0px;
   color: #888;
-}
-
-.nav {
-  background-color: red;
-  
-}
+}*/

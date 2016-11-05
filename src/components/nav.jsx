@@ -2,17 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 class Nav extends React.Component {
-  constructor() {
+  
 
+  render() {
+    return (
+      <div >
+        <h1>BarkstaCam</h1>
+      </div>
+    )
   }
-}
-
-render() {
-  return (
-    <div className='nav' >
-      <span>BARKBOOK</span>
-    </div>
-  )
 };
 
 export default Nav;
